@@ -1,7 +1,16 @@
 
 
 window:
-share one directory in the windows:
+
+C:\Users\username>systeminfo
+
+Host Name:                 xxx
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19042 N/A Build 19042
+C:\Users\username>
+
+
+share one directory in the windows.
 
 C:\Users\username>net share
 
