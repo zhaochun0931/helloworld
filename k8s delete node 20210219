@@ -1,4 +1,4 @@
-
+kubectl get pods -A -o wide
 kubectl drain NODE_NAME --force
 kubectl delete NODE_NAME
 kubectl get nodes
